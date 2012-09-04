@@ -1,0 +1,9 @@
+[submodule "kdtree-mex"]
+	path = kdtree-mex
+	url = https://github.com/markeroon/kdtree-mex.git
+[submodule "file_management"]
+	path = file_management
+	url = https://github.com/markeroon/file_management.git
+[submodule "CoherentPointDrift"]
+	path = CoherentPointDrift
+	url = https://github.com/markeroon/CoherentPointDrift.git
